@@ -1,9 +1,12 @@
-# beetroot-sass-template
+Install required packages
+
+`npm i`
+
+Optimize all images
+
+`npm img`
 
 Run project 
 
 `npm start`
 
-Optimize all images
-
-`npm img`
